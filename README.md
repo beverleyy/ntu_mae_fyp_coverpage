@@ -10,6 +10,12 @@ Please check the FYP template whether it has updated or not.
 
 ## How to use
 
+If using git, you can clone this repository to your local machine.
+
+```
+$ git clone https://github.com/beverleyy/ntu_mae_fyp_coverpage
+```
+
 The `main.tex` is a good starting point, you can use it as a base to type your own report if you'd like. Feel free to add packages and others in the preamble.
 
 To add sections, create a new `the_file.tex` file and use `\include{the_file.tex}` to add it to the report.
